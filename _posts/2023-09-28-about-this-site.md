@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About This Website
-image: 11.jpg
+image: 4.jpg
 date: 2023-09-28
 ---
 

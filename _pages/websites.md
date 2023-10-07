@@ -31,6 +31,8 @@ You may refer to the links below for verifying whether an account online is actu
 - [Pixiv](https://www.pixiv.net/en/users/56454176) Art/Doodles
 - [Discord](https://discord.gg/2rBcjwjRdC) Communication hub
 
+<iframe src="https://discord.com/widget?id=1074429345357123584&theme=light" width="90%" height="350" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ### Gaming
 - [Steam](https://steamcommunity.com/id/mikumikudawne/)
 - [Roblox](https://www.roblox.com/users/4463653477/profile)

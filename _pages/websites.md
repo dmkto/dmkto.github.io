@@ -26,6 +26,7 @@ You may refer to the links below for verifying whether an account online is actu
 - [Inkitt](https://www.inkitt.com/dewanmukto) Stories
 - [Webnovel](https://www.webnovel.com/profile/4322246237) Stories
 - [RoyalRoad](https://www.royalroad.com/profile/306406) Stories
+- [Tapas](https://tapas.io/dewanmukto) Stories
 - [Lulu](https://www.lulu.com/spotlight/dewanmukto/) Print books on demand
 - [Spillwords](https://spillwords.com/author/dewanmukto/) Poetry
 - [(Books)](/books) Chronological list of published books
@@ -33,6 +34,7 @@ You may refer to the links below for verifying whether an account online is actu
 ### 💻 Code
 - [GitHub](https://github.com/diztil) Random code and source files
 - [CodePen](https://codepen.io/distil) Web-oriented code
+- [Replit](https://replit.com/@dewanmukto) Testing code and hosting mini websites
 
 ### 🎥 Video
 - [YouTube](https://youtube.com/@DewanMukto) Main channel for videos and vlogs

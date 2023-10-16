@@ -55,7 +55,7 @@ You may refer to the links below for verifying whether an account online is actu
 
 # Miscellaneous Websites
 
-### Business
+### 🏢 Business
 - [DMI Store](https://www.dewanmukto.cf) Shop for ebooks, courses, memberships
 - [Bostabilai](https://bostabilai.myspreadshop.com/) Shop for clothing merchandise
 - [\*untitled\*](https://www.lulu.com/spotlight/dewanmukto/) Shop for books
@@ -63,18 +63,18 @@ You may refer to the links below for verifying whether an account online is actu
 - [\*untitled\*](https://dewanmukto.itch.io/) Apps and games
 - [Domain BD](https://domain.bd.dev.com.ng/) Domains
 
-### Projects
+### ⚒️ Projects
 - [Amrella (amrella.com)](https://try.amrella.com/) Social media platform
 - [Deventurisk (dev.com.ng)](https://dev.com.ng) Professional/B2B services
 - [Mux Anime Studios](https://mux111anime.wordpress.com) Anime studio
 - Dewan IELTS `(website unavailable due to domain problems)` Online IELTS training
 - [MuxDay](https://www.behance.net/gallery/180762777/Discord-Bot) Discord bot
 
-### Personal
+### 👤 Personal
 - [dewanmukto.gq](https://dewanmukto.gq) Identity
 - [www.dewanmukto.repl.co](https://www.dewanmukto.repl.co) Official
 
-### Made by me
+### ⚙️ Made by me
 - [Fortenox's Website](https://fortenox.site.i.ng) Website for [Fortenox](https://www.youtube.com/channel/UCgxon7z2frqUUX-s0tp4KHg), a Canadian musical producer and DJ
 - [Unico's Landing Page](https://codepen.io/distil/pen/BaxvpOX) Landing page for [Unico](https://www.facebook.com/unico.101), a Bangladeshi graphics design and digital marketing agency
 - [My book website](https://dmi.my.canva.site) Website for showcasing my books

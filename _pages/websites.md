@@ -56,6 +56,7 @@ You may refer to the links below for verifying whether an account online is actu
 # Miscellaneous Websites
 
 ### 🏢 Business
+- [DMKTO DSGNS](https://www.linkedin.com/services/page/1404b331015b9810a3/) Digital marketing services
 - [DMI Store](https://www.dewanmukto.cf) Shop for ebooks, courses, memberships
 - [Bostabilai](https://bostabilai.myspreadshop.com/) Shop for clothing merchandise
 - [\*untitled\*](https://www.lulu.com/spotlight/dewanmukto/) Shop for books

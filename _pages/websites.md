@@ -19,20 +19,25 @@ You may refer to the links below for verifying whether an account online is actu
 ### 📄 Articles/Blogs
 - [Medium](https://medium.com/@dewanmukto) Articles
 - [Hashnode](https://hashnode.com/@dewanmukto) Technical articles
+- [Wordpress](https://dewanmukto.wordpress.com/) Blog (discontinued)
 
 ### 📖 Literature
 - [Wattpad](https://www.wattpad.com/user/d1stil) Stories and poetry
 - [Inkitt](https://www.inkitt.com/dewanmukto) Stories
+- [RoyalRoad](https://www.royalroad.com/profile/306406) Stories
+- [Lulu](https://www.lulu.com/spotlight/dewanmukto/) Print books on demand
+- [Spillwords](https://spillwords.com/author/dewanmukto/) Poetry
+- [(Books)](/books) Chronological list of published books
 
 ### 💻 Code
-- [GitHub](https://github.com/dmimukto) Random code and source files
+- [GitHub](https://github.com/diztil) Random code and source files
 - [CodePen](https://codepen.io/distil) Web-oriented code
 
 ### 🎥 Video
-- [YouTube](https://youtube.com/@DewanMukto) Videos and vlogs
+- [YouTube](https://youtube.com/@DewanMukto) Main channel for videos and vlogs
+- [YouTube](https://www.youtube.com/@Muktoverse) 3D animations
   
 ### 💬 Social
-
 - [X ~~Twitter~~](https://twitter.com/dewan_mukto) Opinions, advice and updates
 - [Facebook](https://facebook.com/dewanmukto) Promotions and updates
 - [Instagram](https://instagram.com/dewanmukto) Design-focused updates

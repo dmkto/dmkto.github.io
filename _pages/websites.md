@@ -87,3 +87,6 @@ You may refer to the links below for verifying whether an account online is actu
 - [Amrella](https://amrella.com/) Website for the social platform itself
 - [Time's website](https://timing.my.canva.site) Website for [Time](https://www.linkedin.com/company/tymeco/), a conglomerate company in the making
 - [Muktoverse](https://mukto.dev.com.ng/) 3D portfolio website
+
+# For business enquiries
+Contact: [business@amrella.com](mailto:business@amrella.com)

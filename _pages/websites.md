@@ -24,6 +24,7 @@ You may refer to the links below for verifying whether an account online is actu
 ### 📖 Literature
 - [Wattpad](https://www.wattpad.com/user/d1stil) Stories and poetry
 - [Inkitt](https://www.inkitt.com/dewanmukto) Stories
+- [Webnovel](https://www.webnovel.com/profile/4322246237) Stories
 - [RoyalRoad](https://www.royalroad.com/profile/306406) Stories
 - [Lulu](https://www.lulu.com/spotlight/dewanmukto/) Print books on demand
 - [Spillwords](https://spillwords.com/author/dewanmukto/) Poetry
@@ -36,6 +37,8 @@ You may refer to the links below for verifying whether an account online is actu
 ### 🎥 Video
 - [YouTube](https://youtube.com/@DewanMukto) Main channel for videos and vlogs
 - [YouTube](https://www.youtube.com/@Muktoverse) 3D animations
+- [YouTube](https://www.youtube.com/@clubkodbell2420) Minecraft animations
+- [YouTube](https://www.youtube.com/@DistilRoblox) Roblox videos
   
 ### 💬 Social
 - [X ~~Twitter~~](https://twitter.com/dewan_mukto) Opinions, advice and updates

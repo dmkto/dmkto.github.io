@@ -8,32 +8,40 @@ You may refer to the links below for verifying whether an account online is actu
 
 # Social Media Profiles
 
-### Professional/Formal
+### 👔 Professional/Formal
 - [LinkedIn](https://linkedin.com/in/dewanmukto) Industry-standard public profile
-- [Behance](https://behance.net/dmkto) Creative portfolio
-- [Medium](https://medium.com/@dewanmukto) Articles
 
-### Semi-Formal
-- [X ~~Twitter~~](https://twitter.com/dewan_mukto) Opinions, advice and updates
+### 🎨 Graphic Design
+- [Dribbble](https://dribbble.com/dewanmukto) UI/UX design portfolio
+- [Behance](https://behance.net/dmkto) Creative portfolio
+- [Pixiv](https://www.pixiv.net/en/users/56454176) Art/Doodles
+
+### 📄 Articles/Blogs
+- [Medium](https://medium.com/@dewanmukto) Articles
 - [Hashnode](https://hashnode.com/@dewanmukto) Technical articles
-- [YouTube](https://youtube.com/@DewanMukto) Videos and vlogs
+
+### 📖 Literature
+- [Wattpad](https://www.wattpad.com/user/d1stil) Stories and poetry
+- [Inkitt](https://www.inkitt.com/dewanmukto) Stories
+
+### 💻 Code
 - [GitHub](https://github.com/dmimukto) Random code and source files
 - [CodePen](https://codepen.io/distil) Web-oriented code
-- [Dribbble](https://dribbble.com/dewanmukto) UI/UX design portfolio
 
-### Casual
-- [Wattpad](https://www.wattpad.com/user/d1stil) Stories and poetry
+### 🎥 Video
+- [YouTube](https://youtube.com/@DewanMukto) Videos and vlogs
+  
+### 💬 Social
+
+- [X ~~Twitter~~](https://twitter.com/dewan_mukto) Opinions, advice and updates
 - [Facebook](https://facebook.com/dewanmukto) Promotions and updates
 - [Instagram](https://instagram.com/dewanmukto) Design-focused updates
 - [Amrella](https://amrella.com/members/dewanmukto) Random
-- [SoundCloud](https://soundcloud.com/dewanmukto) Music
-- [Inkitt](https://www.inkitt.com/dewanmukto) Stories
-- [Pixiv](https://www.pixiv.net/en/users/56454176) Art/Doodles
 - [Discord](https://discord.gg/2rBcjwjRdC) Communication hub
 
 <iframe src="https://discord.com/widget?id=1074429345357123584&theme=light" width="90%" height="350" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-### Gaming
+### 🎮 Gaming
 - [Steam](https://steamcommunity.com/id/mikumikudawne/)
 - [Roblox](https://www.roblox.com/users/4463653477/profile)
 
@@ -49,7 +57,7 @@ You may refer to the links below for verifying whether an account online is actu
 
 ### Projects
 - [Amrella (amrella.com)](https://try.amrella.com/) Social media platform
-- [Time Co. (tim.i.ng)](https://tim.i.ng) Professional/B2B services
+- [Deventurisk (dev.com.ng)](https://dev.com.ng) Professional/B2B services
 - [Mux Anime Studios](https://mux111anime.wordpress.com) Anime studio
 - Dewan IELTS `(website unavailable due to domain problems)` Online IELTS training
 - [MuxDay](https://www.behance.net/gallery/180762777/Discord-Bot) Discord bot
@@ -60,9 +68,10 @@ You may refer to the links below for verifying whether an account online is actu
 
 ### Made by me
 - [Fortenox's Website](https://fortenox.site.i.ng) Website for [Fortenox](https://www.youtube.com/channel/UCgxon7z2frqUUX-s0tp4KHg), a Canadian musical producer and DJ
-- [Unico's Landing Page](https://unico.ga) Landing page for [Unico](https://www.facebook.com/unico.101), a Bangladeshi graphics design and digital marketing agency
+- [Unico's Landing Page](https://codepen.io/distil/pen/BaxvpOX) Landing page for [Unico](https://www.facebook.com/unico.101), a Bangladeshi graphics design and digital marketing agency
 - [My book website](https://dmi.my.canva.site) Website for showcasing my books
 - [Amrella's feature website](https://amrella.my.canva.site/) Website for showcasing [Amrella](https://amrella.com/)'s features
 - [Cooper Black book website](https://dmi.my.canva.site/cooper-black-2016) Website for the [Cooper Black](https://g.co/kgs/M2c8jj) classic 2016 edition novel
 - [Amrella](https://amrella.com/) Website for the social platform itself
-- [Time's website](https://tim.i.ng/) Website for [Time](https://www.linkedin.com/company/tymeco/), a conglomerate company in the making
+- [Time's website](https://timing.my.canva.site) Website for [Time](https://www.linkedin.com/company/tymeco/), a conglomerate company in the making
+- [Muktoverse](https://mukto.dev.com.ng/) 3D portfolio website

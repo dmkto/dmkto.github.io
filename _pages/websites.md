@@ -79,7 +79,7 @@ You may refer to the links below for verifying whether an account online is actu
 - [www.dewanmukto.repl.co](https://www.dewanmukto.repl.co) Official
 
 ### ⚙️ Made by me
-- [Fortenox's Website](https://fortenox.site.i.ng) Website for [Fortenox](https://www.youtube.com/channel/UCgxon7z2frqUUX-s0tp4KHg), a Canadian musical producer and DJ
+- [Fortenox's Website](https://fortenox.wev.ovh) Website for [Fortenox](https://www.youtube.com/channel/UCgxon7z2frqUUX-s0tp4KHg), a Canadian musical producer and DJ
 - [Unico's Landing Page](https://codepen.io/distil/pen/BaxvpOX) Landing page for [Unico](https://www.facebook.com/unico.101), a Bangladeshi graphics design and digital marketing agency
 - [My book website](https://dmi.my.canva.site) Website for showcasing my books
 - [Amrella's feature website](https://amrella.my.canva.site/) Website for showcasing [Amrella](https://amrella.com/)'s features

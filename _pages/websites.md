@@ -79,14 +79,15 @@ You may refer to the links below for verifying whether an account online is actu
 - [www.dewanmukto.repl.co](https://www.dewanmukto.repl.co) Official
 
 ### ⚙️ Made by me
-- [Fortenox's Website](https://fortenox.wev.ovh) Website for [Fortenox](https://www.youtube.com/channel/UCgxon7z2frqUUX-s0tp4KHg), a Canadian musical producer and DJ
-- [Unico's Landing Page](https://codepen.io/distil/pen/BaxvpOX) Landing page for [Unico](https://www.facebook.com/unico.101), a Bangladeshi graphics design and digital marketing agency
+- [Fortenox's Website](https://fortenox.wev.ovh/) Website for [Fortenox](https://www.youtube.com/channel/UCgxon7z2frqUUX-s0tp4KHg), a Canadian musical producer and DJ
+- [Unico's Landing Page](https://unico.wev.ovh/) Landing page for [Unico](https://www.facebook.com/unico.101), a Bangladeshi graphics design and digital marketing agency
 - [My book website](https://dmi.my.canva.site) Website for showcasing my books
 - [Amrella's feature website](https://amrella.my.canva.site/) Website for showcasing [Amrella](https://amrella.com/)'s features
 - [Cooper Black book website](https://dmi.my.canva.site/cooper-black-2016) Website for the [Cooper Black](https://g.co/kgs/M2c8jj) classic 2016 edition novel
 - [Amrella](https://amrella.com/) Website for the social platform itself
 - [Time's website](https://timing.my.canva.site) Website for [Time](https://www.linkedin.com/company/tymeco/), a conglomerate company in the making
 - [Muktoverse](https://mukto.dev.com.ng/) 3D portfolio website
+- [Domaincheap](https://amrella.my.canva.site/domaincheap) Website for a domain registrar
 
 # For business enquiries
 Contact: [business@amrella.com](mailto:business@amrella.com)

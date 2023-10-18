@@ -60,33 +60,24 @@ You may refer to the links below for verifying whether an account online is actu
 
 ### 🏢 Business
 - [DMKTO DSGNS](https://www.linkedin.com/services/page/1404b331015b9810a3/) Digital marketing services
-- [DMI Store](https://www.dewanmukto.cf) Shop for ebooks, courses, memberships
+- [DMI Store](https://dmistore.gumroad.com/) Shop for ebooks, courses, memberships
 - [Bostabilai](https://bostabilai.myspreadshop.com/) Shop for clothing merchandise
 - [\*untitled\*](https://www.lulu.com/spotlight/dewanmukto/) Shop for books
 - [Muktology](https://mukto.company.site/) Shop for services
 - [\*untitled\*](https://dewanmukto.itch.io/) Apps and games
-- [Domain BD](https://domain.bd.dev.com.ng/) Domains
-
-### ⚒️ Projects
-- [Amrella (amrella.com)](https://try.amrella.com/) Social media platform
-- [Deventurisk (dev.com.ng)](https://dev.com.ng) Professional/B2B services
-- [Mux Anime Studios](https://mux111anime.wordpress.com) Anime studio
-- Dewan IELTS `(website unavailable due to domain problems)` Online IELTS training
-- [MuxDay](https://www.behance.net/gallery/180762777/Discord-Bot) Discord bot
 
 ### 👤 Personal
-- [dewanmukto.gq](https://dewanmukto.gq) Identity
 - [www.dewanmukto.repl.co](https://www.dewanmukto.repl.co) Official
 
 ### ⚙️ Made by me
 - [Fortenox's Website](https://fortenox.wev.ovh/) Website for [Fortenox](https://www.youtube.com/channel/UCgxon7z2frqUUX-s0tp4KHg), a Canadian musical producer and DJ
+- [Fortenox's Landing Page](https://wev.ovh/l/ftnx)
 - [Unico's Landing Page](https://unico.wev.ovh/) Landing page for [Unico](https://www.facebook.com/unico.101), a Bangladeshi graphics design and digital marketing agency
 - [My book website](https://dmi.my.canva.site) Website for showcasing my books
 - [Amrella's feature website](https://amrella.my.canva.site/) Website for showcasing [Amrella](https://amrella.com/)'s features
 - [Cooper Black book website](https://dmi.my.canva.site/cooper-black-2016) Website for the [Cooper Black](https://g.co/kgs/M2c8jj) classic 2016 edition novel
 - [Amrella](https://amrella.com/) Website for the social platform itself
-- [Time's website](https://timing.my.canva.site) Website for [Time](https://www.linkedin.com/company/tymeco/), a conglomerate company in the making
-- [Muktoverse](https://mukto.dev.com.ng/) 3D portfolio website
+- [Muktoverse](https://mukto3d.wev.ovh) 3D portfolio website
 - [Domaincheap](https://amrella.my.canva.site/domaincheap) Website for a domain registrar
 
 # For business enquiries

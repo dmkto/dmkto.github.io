@@ -4,7 +4,7 @@ Title: Meet with Dewan Mukto
 permalink: /meet
 ---
 
-<!DOCTYPE html>
+Use the **...** menu to go 🪟 **full screen**
 <html>
   <head>
     <meta charset="UTF-8">

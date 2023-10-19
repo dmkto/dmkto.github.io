@@ -30,6 +30,7 @@ You may refer to the links below for verifying whether an account online is actu
 - [Tapas](https://tapas.io/dewanmukto) Stories
 - [Lulu](https://www.lulu.com/spotlight/dewanmukto/) Print books on demand
 - [Spillwords](https://spillwords.com/author/dewanmukto/) Poetry
+- [Google Play](https://play.google.com/store/info/name/Dewan_Mukto?id=11krcftmvn) E-books
 - [(Books)](/books) Chronological list of published books
 
 ### 💻 Code

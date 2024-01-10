@@ -24,7 +24,9 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 2016
 ----
 
--   [Cooper Black](https://play.google.com/store/books/details/Dewan_Mukto_Cooper_Black_Classic_Edition_2016?id=blWIEAAAQBAJ) `ISBN 9781446748886`
+-   ~~[Cooper Black](https://play.google.com/store/books/details/Dewan_Mukto_Cooper_Black_Classic_Edition_2016?id=blWIEAAAQBAJ)~~ `ISBN 9781446748886`
+-   [Cooper Black 10 Year Edition](https://www.lulu.com/shop/dewan-mukto/cooper-black/hardcover/product-2mm4eq5.html?q=&page=1&pageSize=4) `ISBN 
+9781446638897`
 
 2017
 ----
@@ -65,11 +67,16 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 ----
 
 -   Cooper Black : The Hombre
--   Serpent-Skinned Sapiens
--   [The Inkmaster](https://www.webnovel.com/book/the-inkmaster_24195556306955805)
+-   Sapien-Skinned Serpents
+-   ~~[The Inkmaster]~~(https://www.webnovel.com/book/24195556306955805) Prison of Sentience 
 
 2023
 ----
 
--   In The Wildest Dimensions
+-   [In The Wildest Dimensions](https://www.lulu.com/shop/dewan-mukto/in-the-wildest-dimensions/hardcover/product-2mm7282.html?page=1&pageSize=4) `ISBN 9798880533060`
+
+2024
+----
+
+- [Genesis Era](https://www.webnovel.com/book/genesis-era_28425689800238505)
 

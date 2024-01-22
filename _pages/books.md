@@ -70,7 +70,7 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 2023
 ----
 
--   [In The Wildest Dimensions](https://www.webnovel.com/book/in-the-wildest-dimensions_26226774505461005)
+-   [In The Wildest Dimensions](/books/itwd)
 
 2024
 ----

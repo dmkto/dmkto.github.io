@@ -20,7 +20,7 @@ permalink: /books/syn-sym
   - 9781446750544 `Special Edition (Hardback)`
   - 9781446748046 `International Edition (Paperback)`
 
-### You can read/write reviews on [Goodreads](https://www.goodreads.com/book/show/203611106-cooper-black)
+### You can read/write reviews on [Goodreads](https://www.goodreads.com/book/show/200191807-synaesthetic-symphonies)
 ### You can purchase a physical copy from the following stores:
 
 ## International / North America 🇪🇺 🇺🇸 🇨🇦

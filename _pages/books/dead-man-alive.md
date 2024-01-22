@@ -143,7 +143,8 @@ also see `International / North America` above
 |[Betterworld Books](https://www.betterworldbooks.com/product/detail/dead-man-alive-9781446740972)|Standard Edition|USD 32.38|
 also see `International / North America` above
 
-### Read Online for Free
+### Read Online
 - [Google Play](https://play.google.com/store/books/details?id=Tz3WEAAAQBAJ&hl=as&gl=US)
 - [Google Play Books](https://www.google.com.bd/books/edition/Dead_Man_Alive/Tz3WEAAAQBAJ?hl=en&gbpv=0)
 - [Wattpad](https://www.wattpad.com/story/265075581-dimensions-%E6%AC%A1%E5%85%83%E3%81%AE%E4%B8%96%E7%95%8C)
+- [Gumroad](https://dmistore.gumroad.com/l/dead-man-alive?layout=profile)

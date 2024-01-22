@@ -155,6 +155,7 @@ also see `International / North America` above
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Ebay](https://www.ibs.it/cooper-black-libro-inglese-dewan-mukto/e/9798880654475)|Standard Edition|USD 44.90|
+also see `International / North America` above
 
 ### Read Online for Free
 - [Google Play](https://play.google.com/store/books/details/Dewan_Mukto_Cooper_Black?id=Rk3oEAAAQBAJ&hl=as&gl=US)

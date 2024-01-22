@@ -79,7 +79,7 @@ also see `International / North America` above
 |:---|:---|:---:|
 |[KinoKuniya](https://www.kinokuniya.co.jp/f/dsg-02-9798210806901)|Standard Edition|JPY 12,885.00|
 
-## Latvia
+## Latvia 🇱🇻
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Joom](https://www.joom.com/nl/products/658ae0290c45ca01100fdd83)|Standard Edition|EUR 123.42|

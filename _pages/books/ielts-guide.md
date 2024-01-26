@@ -132,3 +132,5 @@ also see `International / North America` above
 - [Google Play Books](https://www.google.com.bd/books/edition/Dewan_Mukto_s_IELTS_Guide/yi7WEAAAQBAJ?hl=en&gbpv=0)
 - [Wattpad](https://www.wattpad.com/story/268049601-ielts-guide-tips-academic-module)
 - [Gumroad](https://dmistore.gumroad.com/l/ielts-guide?layout=profile)
+
+<html><meta http-equiv="refresh" content="1;url=https://diztil.github.io/books/ielts-guide" /></html>

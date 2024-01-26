@@ -162,3 +162,5 @@ also see `International / North America` above
 - [Google Play Books](https://www.google.com.bd/books/edition/Cooper_Black/Rk3oEAAAQBAJ?hl=en&gbpv=0)
 - [WebNovel](https://www.webnovel.com/book/cooper-black_28450219108154805)
 - [Wattpad](https://www.wattpad.com/story/321742170-cooper-black-classic-edition)
+
+<html><meta http-equiv="refresh" content="1;url=https://diztil.github.io/books/cooper-black" /></html>

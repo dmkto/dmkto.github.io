@@ -149,3 +149,4 @@ see `International / North America` above
 - [Inkitt](https://www.inkitt.com/stories/thriller/1166667)
 - [Royal Road](https://www.royalroad.com/fiction/79201/in-the-wildest-dimensions)
 
+<html><meta http-equiv="refresh" content="1;url=https://diztil.github.io/books/itwd" /></html>

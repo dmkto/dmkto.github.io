@@ -148,3 +148,5 @@ also see `International / North America` above
 - [Google Play Books](https://www.google.com.bd/books/edition/Dead_Man_Alive/Tz3WEAAAQBAJ?hl=en&gbpv=0)
 - [Wattpad](https://www.wattpad.com/story/265075581-dimensions-%E6%AC%A1%E5%85%83%E3%81%AE%E4%B8%96%E7%95%8C)
 - [Gumroad](https://dmistore.gumroad.com/l/dead-man-alive?layout=profile)
+
+<html><meta http-equiv="refresh" content="1;url=https://diztil.github.io/books/dead-man-alive" /></html>

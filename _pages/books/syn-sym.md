@@ -153,3 +153,5 @@ also see `International / North America` above
 - [Google Play](https://play.google.com/store/books/details/Dewan_Mukto_Synaesthetic_Symphonies?id=-5bTEAAAQBAJ&hl=as&gl=US)
 - [Google Play Books](https://www.google.com.bd/books/edition/Synaesthetic_Symphonies/-5bTEAAAQBAJ?hl=en&gbpv=0)
 - [Wattpad](https://www.wattpad.com/story/180240767-synaesthetic-symphonies)
+
+<html><meta http-equiv="refresh" content="1;url=https://diztil.github.io/books/syn-sym" /></html>

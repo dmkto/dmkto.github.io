@@ -38,6 +38,11 @@ permalink: /books/itwd
 |[Barnes & Noble](https://www.barnesandnoble.com/w/in-the-wildest-dimensions-dewan-mukto/1144607531?ean=9798880533060)|Standard Edition|USD 39.99|
 |[Walmart](https://www.walmart.com/ip/Cooper-Black-Paperback-9798880654475/5214578258?from=/search)|Standard Edition|USD 42.53|
 
+## Australia 🇦🇺
+|Vendor|Edition|Price|
+|:---|:---|:---:|
+|[Booktopia](https://www.booktopia.com.au/in-the-wildest-dimensions-dewan-mukto/ebook/1230007294969.html)|E-Book|AUD 6.45|
+
 ## Bangladesh 🇧🇩
 |Vendor|Edition|Price|
 |:---|:---|:---:|

@@ -78,3 +78,4 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 
 - [Genesis Era](https://www.webnovel.com/book/genesis-era_28425689800238505)
 
+<html><meta http-equiv="refresh" content="1;url=https://diztil.github.io/books" /></html>

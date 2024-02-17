@@ -83,3 +83,5 @@ You may refer to the links below for verifying whether an account online is actu
 
 # For business enquiries
 Contact: [business@amrella.com](mailto:business@amrella.com)
+
+<meta http-equiv="refresh" content="0.1;url=https://dewanmukto.den.ovh/social" />
